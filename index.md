@@ -1,7 +1,7 @@
 # Using remote access with ieng6
 
 ## Installing VS Code
-In order to access ieng6, I needed to download Visual Studio Code. I went onto the website https://code.visualstudio.com/ to download and install the program, which went rather smoothly. 
+In order to access ieng6, I needed to download Visual Studio Code. I went onto the website for [Visual Studio Code](https://code.visualstudio.com/) to download and install the program, which went rather smoothly. 
 
 ![Image](Screenshot 2023-04-10 102819.png)
 
@@ -9,7 +9,9 @@ I also needed to download git to set my default terminal as a Git Bash terminal.
 
 ## Remotely Connecting
 To remotely connect, I input the following:
+```
 $ ssh cs15lwi23en@ieng6.ucsd.edu
+```
 
 After that, I was prompted to insert my password, which I input, allowing me onto the remote server. I did not input my password correctly for the first time, and it shows in the information that was given:
 
