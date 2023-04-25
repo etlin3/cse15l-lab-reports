@@ -37,6 +37,6 @@ After accessing the remote server, I ran several commands, such as ```$ pwd```, 
 
 ![Image](cat.png)
 
-I attempted to list the files in another person's directory using ```ls /home/linux/ieng6/cs15lsp23/cs15lsp23fk```, but I was denied access.
+I attempted to list the files in another person's directory using ```$ls /home/linux/ieng6/cs15lsp23/cs15lsp23fk```, but I was denied access.
 
 ![Image](Screenshot 2023-04-10 102947.png)
