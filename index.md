@@ -40,12 +40,12 @@ Which listed all the files in the directory, including hidden files.
 ![Image](ls -a.png)
 
 ```
-$ mkr Hello Everyone
+$ mkdir Hello Everyone
 ```
 
 Which created new directories called Hello and Everyone
 
-![Image](mkr Hello Everyone.png)
+![Image](mkdir hello everyone.png)
 
 ```
 $ cat /home/linux/ieng6/cs15lsp23/public/hello.txt
