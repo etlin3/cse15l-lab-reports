@@ -22,10 +22,38 @@ After that, I was prompted to insert my password, which I input, allowing me ont
 ## Running Commands
 
 After accessing the remote server, I ran several commands, such as
-$ cd to navigate the directories, 
-$ cd ~ to return to the main directory, or 
-$ ls to list the files in a folder. 
+```
+$ pwd
+```
 
-I attempted to list the files in another person's directory, but I was locked out as I did not have access.
+Which printed the path to the working directory.
+
+![Image](pwd.png)
+
+```
+$ ls -a
+```
+
+Which listed all the files in the directory, including hidden files. 
+
+
+![Image](ls -a.png)
+
+```
+$ mkr Hello Everyone
+```
+
+Which created new directories called Hello and Everyone
+
+![Image](mkr Hello Everyone.png)
+
+```
+$ cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+```
+which listed the contents of the file "hello.txt".
+
+![Image](cat.png)
+
+I attempted to list the files in another person's directory using ``` ls <other person's directory``` , but I was locked out as I did not have access.
 
 ![Image](Screenshot 2023-04-10 102947.png)
