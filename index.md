@@ -21,39 +21,22 @@ After that, I was prompted to insert my password, which I input, allowing me ont
 
 ## Running Commands
 
-After accessing the remote server, I ran several commands, such as
-```
-$ pwd
-```
-
-Which printed the path to the working directory.
+After accessing the remote server, I ran several commands, such as ```$ pwd```, which printed the path to the working directory.
 
 ![Image](pwd.png)
 
-```
-$ ls -a
-```
-
-Which listed all the files in the directory, including hidden files. 
-
+```$ ls -a```, which listed all the files in the directory, including hidden files. 
 
 ![Image](ls -a.png)
 
-```
-$ mkdir Hello Everyone
-```
-
-Which created new directories called Hello and Everyone
+```$ mkdir Hello Everyone```, which created new directories called Hello and Everyone
 
 ![Image](mkdir hello everyone.png)
 
-```
-$ cat /home/linux/ieng6/cs15lsp23/public/hello.txt
-```
-which listed the contents of the file "hello.txt".
+```$ cat /home/linux/ieng6/cs15lsp23/public/hello.txt```, which listed the contents of the file "hello.txt".
 
 ![Image](cat.png)
 
-I attempted to list the files in another person's directory using ```ls <other person's directory>```, but I was locked out as I did not have access.
+I attempted to list the files in another person's directory using ```ls /home/linux/ieng6/cs15lsp23/cs15lsp23fk```, but I was denied access.
 
 ![Image](Screenshot 2023-04-10 102947.png)
