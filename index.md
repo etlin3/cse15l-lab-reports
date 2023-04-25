@@ -5,7 +5,9 @@ In order to access ieng6, I needed to download Visual Studio Code. I went onto t
 
 ![Image](Screenshot 2023-04-10 102819.png)
 
-I also needed to download git to set my default terminal as a Git Bash terminal. 
+I also needed to download git to set my default terminal as a Git Bash terminal. To do this, I first installed git from [GitforWindows](https://gitforwindows.org). 
+
+After installing git, I opened up Visual Studio Code, opened the terminal with ```Ctrl + ````
 
 ## Remotely Connecting
 To remotely connect, I input the following:
