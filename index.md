@@ -56,8 +56,8 @@ which listed the contents of the file "hello.txt".
 
 I attempted to list the files in another person's directory using 
 ``` 
-ls <other person's directory
-``` , 
-but I was locked out as I did not have access.
+ls <other person's directory>
+```
+, but I was locked out as I did not have access.
 
 ![Image](Screenshot 2023-04-10 102947.png)
