@@ -1,4 +1,4 @@
-<find -type d>
+```find -type d```
 
 find -type f
 
