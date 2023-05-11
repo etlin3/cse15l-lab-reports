@@ -104,4 +104,4 @@ After:
 
 # Part 3
 
-One thing I learned from these past two labs was how to create servers using Java. 
+One thing I learned from these past two labs was how to create servers using Java. By coding a server file named "Server" and running it with "java Server 4000", I can create and run a server on my local computer that can carry out functions by changing the URL. 
