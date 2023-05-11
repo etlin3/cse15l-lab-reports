@@ -40,7 +40,7 @@ Found at https://ss64.com/bash/find.html
 
 ```find -size +1M```
 
-![Image](size2.png)
+![Image](size 2.png)
 
 the -size option finds files of a certain size, which is helpful to find the files that contain a lot of information, which are generally more important.
 
