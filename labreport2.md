@@ -81,6 +81,8 @@ Code that fails:
 
 ```
 
+![Image](testrun.png)
+
 How to fix (Before):
 ```
   static void reverseInPlace(int[] arr) {
@@ -90,7 +92,7 @@ How to fix (Before):
   }
 ```
 
-After:
+How to fix (After):
 
 ```
   static void reverseInPlace(int[] arr) {
@@ -101,6 +103,8 @@ After:
     arr = output
   }
 ```
+
+This change fixes the issue because it creates a new array instead of overwriting the same, single array. Because it's putting the new values into the new array, the array "arr" does not get changed while it is in the process of referencing itself, allowing the program to run properly.
 
 # Part 3
 
