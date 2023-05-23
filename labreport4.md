@@ -17,8 +17,10 @@ type :wq
 Step 8:
   
 type $ javac ListExamplesTests.java
+
 type $ java ListExamplesTests
   
 Step 9:
 git commit -m "edited files"
+
 git push
