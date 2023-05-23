@@ -6,7 +6,7 @@ type $ java ListExamplesTests
 
 Step 7:
 
-'<up><right><right><right><right><right><right><right><x><i><2><esc>'
+`<up><right><right><right><right><right><right><right><x><i><2><esc>`
   
 type :wq
 
