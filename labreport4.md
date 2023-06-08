@@ -22,9 +22,13 @@ type `java ListExamplesTests`
 
 ![Image](lab4 img4.png)
 
+I opened up the file in vim with `vim ListExamples.java`
+
+I then navigated to the erroneous line.
+
 `<up><right><right><right><right><right><right><right><x><i><2><esc>`
   
-type `:wq`
+type `:wq` to save and quit
 
 # Step 8:
   
